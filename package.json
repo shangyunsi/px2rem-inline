@@ -1,6 +1,6 @@
 {
   "name": "px2vm-inline",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "inline style 转化为 vm",
   "main": "dist/index.js",
   "module": "dist/index.js",

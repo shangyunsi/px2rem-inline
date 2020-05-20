@@ -2,10 +2,9 @@
 
 可将inline-style里的px单位转换为vw
 
-```js
 
+```js
 // webpack 配置方法
-...
 
   rules: [{
     ...// js file
@@ -20,5 +19,4 @@
       }
     ],
   }, 
-...
 ```
