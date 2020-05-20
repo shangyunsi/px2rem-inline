@@ -8,7 +8,7 @@
 ...
 
   rules: [{
-    ...
+    ...// js file
     use: [
       {
         loader: 'px2vm-inline',
