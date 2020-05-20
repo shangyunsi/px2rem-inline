@@ -13,5 +13,17 @@
   "devDependencies": {
     "loader-utils": "^1.2.3"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shangyunsi/px2vw-inline.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shangyunsi/px2vw-inline/issue"
+  },
+  "keywords": [
+    "webpack",
+    "px",
+    "vw"
+  ],
   "dependencies": {}
 }
