@@ -83,7 +83,7 @@ typings/
 # vscode 工作区配置， 配置推荐 在项目目录中: cd {project} && code ./
 .vscode
 
-# QuVideo F2E
+.package-lock.json
 .idea
 .DS_store
 Untitled
