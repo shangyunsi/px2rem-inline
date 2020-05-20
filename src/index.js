@@ -2,7 +2,7 @@ const loaderUtils = require('loader-utils');
 
 const defaultConf = {
     rootValue: 750,
-    remFixed: 2,
+    vwFixed: 2,
     minPixelValue: 12,
 }
 
@@ -26,7 +26,7 @@ module.exports = function (source) {
 
             let result = target * 100 / config.rootValue;
 
-            result = parseFloat(result.toFixed(config.remFixed));
+            result = parseFloat(result.toFixed(config.vwFixed));
 
             return result === 0 ? result : result + 'vw';
         });

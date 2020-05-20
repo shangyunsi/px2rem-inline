@@ -1,5 +1,5 @@
 {
-  "name": "@xy/px2vm-inline",
+  "name": "px2vm-inline",
   "version": "0.0.1",
   "description": "inline style 转化为 vm",
   "main": "dist/index.js",
