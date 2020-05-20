@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "babel src -d dist"
   },
-  "author": "shangyun.si@quvideo.com",
+  "author": "shangyunsiwork@163.com",
   "license": "ISC",
   "devDependencies": {
     "loader-utils": "^1.2.3"
